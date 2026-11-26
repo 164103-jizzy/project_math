@@ -13,5 +13,6 @@ for i in x:
     sum += z
 
 md = sum / total
+print(result)
 print(avg)
 print(md)
